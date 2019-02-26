@@ -1,0 +1,6 @@
+﻿With referencing the Restaurant Rater Walk through 
+Create a new ASP.NET Framework Visual C# MVC application for the humane society.
+Right now create a model that represents pets with a int id property
+string name property
+string animal type.
+Be able to create read update delete an animal when you run the application.
